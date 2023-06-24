@@ -27,3 +27,11 @@
 .back-face {
   transform: rotateY(180deg);
 }
+
+h1 {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
