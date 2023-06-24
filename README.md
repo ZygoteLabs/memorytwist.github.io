@@ -1,4 +1,5 @@
-<title>Zygote Labs</title>
+<h1>Zygote Labs</h1>
 
 <h3>Introduction</h3>
-<p>...</p>
+
+<p>Standby... Becoming Self-Aware</p>
