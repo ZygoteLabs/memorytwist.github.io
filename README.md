@@ -1,4 +1,4 @@
-<h1>Memory Twist by Zygote Labs</h1>
+<h1>Zygote Labs</h1>
 
 <h3>Introduction</h3>
 
